@@ -1,0 +1,16 @@
+# Educational History Website - Road to Revolution
+# This is a legitimate educational resource about the American Revolution
+# Suitable for middle school and high school students
+
+# Allow all educational and search engine crawlers
+User-agent: *
+Allow: /
+
+# Sitemap (if you add one later)
+# Sitemap: https://yourwebsite.com/sitemap.xml
+
+# This website contains:
+# - Educational content about American History
+# - Interactive timeline of Revolutionary War causes
+# - Age-appropriate content for grades 6-12
+# - No advertisements or commercial content
