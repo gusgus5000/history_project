@@ -394,6 +394,7 @@ document.addEventListener('DOMContentLoaded', () => {
     addDynamicStyles();
 
     console.log('%c✅ Revolutionary War Timeline Loaded Successfully', 'color: green; font-weight: bold;');
+    console.log(`%c📚 Glossary with ${document.querySelectorAll('.glossary-entry').length} vocabulary terms loaded`, 'color: #8b2e2e; font-weight: bold;');
 });
 
 // ========================================
