@@ -269,7 +269,7 @@ class AccessibilityManager {
 
     init() {
         // Add skip to main content link
-        this.addSkipLink();
+        
 
         // Enhance keyboard navigation
         this.enhanceKeyboardNav();
