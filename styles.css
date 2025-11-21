@@ -733,8 +733,21 @@ body {
     margin: 0 auto 30px;
 }
 
+.main-footer a {
+    text-decoration:underline;
+     color: var(--brown-dark);
+}
+
+.main-footer a:active {
+    color: #8b2e2e;
+}
+
+.main-footer a:hover {
+    color: var(--shadow-color);
+}
+
 .main-footer p {
-    font-size: 1.15rem;
+    font-size: 2.15rem;
     color: var(--brown-dark);
     max-width: 800px;
     margin: 0 auto 20px;
@@ -883,3 +896,5 @@ html {
         background: white;
     }
 }
+/* Final stuff*/
+
